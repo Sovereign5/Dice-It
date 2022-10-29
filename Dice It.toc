@@ -1,0 +1,6 @@
+## Interface: 100000
+## Title: Dice It
+## Author: Christopher Garcia
+## Version: 1.0
+
+main.lua
